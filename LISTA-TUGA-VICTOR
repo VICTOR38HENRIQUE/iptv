@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ASSIM É PORTUGAL" tvg-logo="https://assimeportugal.com/wp-content/uploads/2020/10/lg-assim.png" group-title="ASSIM É PORTUGAL",PORTUGAL
+https://video04.logicahost.com.br/assimeportugal/assimeportugal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVI" tv-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png" group-title="TVI", TVI
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+
+#EXTINF:-1 tvg-id="TVI África" tv-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/54/TVI_%C3%81frica_2017.png" group-title="TVI África", TVI África
+https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SIC" tv-logo="https://images.impresa.pt/impresa/2019-02-01-sic.png-1/16x9/mw-200" group-title="SIC", SIC
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+
+#EXTINF:-1 tvg-id="SIC Alta Definição" tv-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/0/05/SICAD.png/640px-SICAD.png" group-title="SIC Alta Definição", SIC Alta Definição
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+
+#EXTINF:-1 tvg-id="SIC Notícias" tv-logo="https://logowik.com/content/uploads/images/sic-noticias6934.logowik.com.webp" group-title="SIC Notícias", SIC Notícias
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+
+#EXTINF:-1 tvg-id="CNN - Portugal" tv-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/CNN_Portugal.svg/2048px-CNN_Portugal.svg.png" group-title="CNN - Portugal", CNN - Portugal
+https://video-auth6.iol.pt/edge_servers/cnn-720p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="CMT" tv-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/CMT_2017_logo.png" group-title="CMT", CMT
+https://fl3.moveonjoy.com/CMT/index.m3u8
+
